@@ -2,4 +2,5 @@
 
 Модули:
 - Python
-- TBD..
+- Pandas / Matplotlib / NumPy
+- Statistics
